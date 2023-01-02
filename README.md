@@ -21,3 +21,4 @@ npm i discord.js dotenv puppeteer
 ### [2023/01/02]
 
 - 開始。まだ動かない。
+- target はあっているぽい。
